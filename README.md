@@ -4,4 +4,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimachado23&theme=tokyonight&layout=compact" />
   </a>
 </div>
-
