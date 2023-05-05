@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi &#x1F44B; </h1>
+  <h1> Hello &#x1F44B; </h1>
   <p> My name is Rui Machado and I'm a Software Engineering student at Universidade de Aveiro
 </div>
 
