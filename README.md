@@ -1,3 +1,4 @@
-<img src='./banner.gif' style='width: 100%; height: 200px; object-fit: cover; object-position: bottom;'/>
-
+<div style='width: 100%; height: 150px; overflow: hidden; position: relative;'>
+  <img src='./gif.gif' style='width: 100%; position: absolute; bottom: 0;'/>
+</div>
 # rui machado
